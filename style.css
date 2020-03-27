@@ -116,7 +116,7 @@ a:hover{
 }
 
 #Agathe{
-	width: 550px;
+	width: 350px;
 	text-align: right;
 	border: 2px red solid;
 	border-radius: 7px;
@@ -136,21 +136,21 @@ a:hover{
 
 
 
-@media (max-width: 960px) {
+@media (max-width: 860px) {
 
   div{
-    width: 700px;
+    width: 600px;
   }
 }
-@media (max-width: 720px) {
+@media (max-width: 620px) {
 
   div{
-    width: 500px;
+    width: 400px;
   }
 }
-@media (max-width: 540px) {
+@media (max-width: 440px) {
 
   div{
-    width: 300px;
+    width: 200px;
   }
 }
