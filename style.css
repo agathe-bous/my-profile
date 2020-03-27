@@ -1,0 +1,156 @@
+body{
+	background: rgb(229, 243, 255);
+	color: rgb(35, 35, 35);
+	font-family: Heletica, monospace;
+	font-size: 20px;
+	line-height: 1.7;
+	font-weight: lighter;
+	text-orientation: center;
+
+}
+
+h1{
+	color: rgb(188,54,25);
+	font-family: Courier, monospace;
+	font-size: 40px;
+	line-height: 2;
+	font-weight: bolder;
+	text-orientation: center;
+	text-align: center;
+
+}
+
+h2{
+	color: rgb(0, 50, 96);
+	font-family: Arial, monospace;
+	font-size: 40px;
+	line-height: 1.7;
+	font-weight: lighter;
+	text-align: center;
+	text-orientation: center;
+}
+
+h3{
+	color: rgb(0, 50, 96);
+	font-family: Arial, monospace;
+	font-size: 20px;
+	line-height: 1.7;
+	font-weight: lighter;
+	text-align: center;
+}
+
+h4{
+	color: rgb(0, 50, 96);
+	font-family: Arial, monospace;
+	font-size: 40px;
+	line-height: 1.7;
+	font-weight: lighter;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: rgb(188,54,25);
+	background-color: rgb(231, 244, 255);
+	padding: 5px;
+	font-size: 20px;
+}
+
+a:hover{
+	color: rgb(0, 50, 96);
+	font-size: 25px;
+}
+
+
+.div0{
+	width: 1050px;
+	margin: 60px auto;
+	padding: 20px;
+    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
+    border-radius: 1%;
+    background-color: rgba(185, 222, 255, 0.08);
+}
+
+.div1{
+	width: 1400px;
+	margin: 60px auto;
+	font-size: 25px;
+	padding: 20px;
+    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
+    border-radius: 11px;
+    background-color: rgba(185, 222, 255, 0.08);
+}
+
+.list {
+	list-style: none;
+	padding-left: 0px;
+}
+
+
+.div2{
+	width: 1400px;
+	margin: 80px auto;
+	margin-bottom: 10px;
+	padding: 20px;
+    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
+    border-radius: 11px;
+    background-color: rgba(185, 222, 255, 0.08);
+}
+
+.div3{
+	width: 550px;
+	margin: 50px auto;
+	margin-bottom: 50px;
+	padding: 20px;
+	font-size: 16px;
+	text-align: center;
+    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
+    border-radius: 11px;
+    background-color: rgba(185, 222, 255, 0.08);
+    text-orientation: center;
+}
+
+.titre{
+	text-align: center;
+	font-size: 40px;
+}
+
+#Agathe{
+	width: 500px;
+	text-align: right;
+	border: 2px red solid;
+	border-radius: 15px;
+}
+
+.logo{
+	width: 120px;
+	height: 120px;
+	text-align: center;
+	border-radius: 50%;
+}
+
+.plane{
+	color: red;
+	width: 200px;
+}
+
+
+
+@media (max-width: 960px) {
+
+  div{
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+
+  div{
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+
+  div{
+    width: 300px;
+  }
+}
