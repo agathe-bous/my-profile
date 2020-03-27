@@ -71,6 +71,12 @@ a:hover{
     background-color: rgba(185, 222, 255, 0.08);
 }
 
+#intro{
+	font-size: 17px;
+	font-family: courrier, monospace;
+
+}
+
 .div1{
 	width: 900px;
 	margin: 40px auto;
@@ -110,7 +116,7 @@ a:hover{
     text-orientation: center;
 }
 
-.titre{
+#header{
 	text-align: center;
 	font-size: 20px;
 }
