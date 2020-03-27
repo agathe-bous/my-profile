@@ -12,7 +12,7 @@ body{
 h1{
 	color: rgb(188,54,25);
 	font-family: Courier, monospace;
-	font-size: 40px;
+	font-size: 30px;
 	line-height: 2;
 	font-weight: bolder;
 	text-orientation: center;
@@ -23,7 +23,7 @@ h1{
 h2{
 	color: rgb(0, 50, 96);
 	font-family: Arial, monospace;
-	font-size: 40px;
+	font-size: 20px;
 	line-height: 1.7;
 	font-weight: lighter;
 	text-align: center;
@@ -33,7 +33,7 @@ h2{
 h3{
 	color: rgb(0, 50, 96);
 	font-family: Arial, monospace;
-	font-size: 20px;
+	font-size: 15px;
 	line-height: 1.7;
 	font-weight: lighter;
 	text-align: center;
@@ -42,7 +42,7 @@ h3{
 h4{
 	color: rgb(0, 50, 96);
 	font-family: Arial, monospace;
-	font-size: 40px;
+	font-size: 10px;
 	line-height: 1.7;
 	font-weight: lighter;
 	text-align: center;
@@ -53,31 +53,31 @@ a{
 	color: rgb(188,54,25);
 	background-color: rgb(231, 244, 255);
 	padding: 5px;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 a:hover{
 	color: rgb(0, 50, 96);
-	font-size: 25px;
+	font-size: 20px;
 }
 
 
 .div0{
-	width: 1050px;
-	margin: 60px auto;
-	padding: 20px;
-    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
+	width: 500px;
+	margin: 30px auto;
+	padding: 10px;
+    box-shadow: 2px 3px 7px rgba(150, 150, 150, 0.6);
     border-radius: 1%;
     background-color: rgba(185, 222, 255, 0.08);
 }
 
 .div1{
-	width: 1400px;
-	margin: 60px auto;
-	font-size: 25px;
-	padding: 20px;
-    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
-    border-radius: 11px;
+	width: 700px;
+	margin: 30px auto;
+	font-size: 15px;
+	padding: 10px;
+    box-shadow: 2px 3px 7px rgba(150, 150, 150, 0.6);
+    border-radius: 5px;
     background-color: rgba(185, 222, 255, 0.08);
 }
 
@@ -88,50 +88,50 @@ a:hover{
 
 
 .div2{
-	width: 1400px;
-	margin: 80px auto;
-	margin-bottom: 10px;
-	padding: 20px;
-    box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
-    border-radius: 11px;
+	width: 600px;
+	margin: 40px auto;
+	margin-bottom: 5px;
+	padding: 10px;
+    box-shadow: 2px 3px 7px rgba(150, 150, 150, 0.6);
+    border-radius: 5px;
     background-color: rgba(185, 222, 255, 0.08);
 }
 
 .div3{
-	width: 550px;
-	margin: 50px auto;
-	margin-bottom: 50px;
-	padding: 20px;
+	width: 300px;
+	margin: 20px auto;
+	margin-bottom: 25px;
+	padding: 10px;
 	font-size: 16px;
 	text-align: center;
     box-shadow: 2px 3px 15px rgba(150, 150, 150, 0.6);
-    border-radius: 11px;
+    border-radius: 5px;
     background-color: rgba(185, 222, 255, 0.08);
     text-orientation: center;
 }
 
 .titre{
 	text-align: center;
-	font-size: 40px;
+	font-size: 20px;
 }
 
 #Agathe{
-	width: 500px;
+	width: 150px;
 	text-align: right;
 	border: 2px red solid;
-	border-radius: 15px;
+	border-radius: 7px;
 }
 
 .logo{
-	width: 120px;
-	height: 120px;
+	width: 30px;
+	height: 30px;
 	text-align: center;
 	border-radius: 50%;
 }
 
 .plane{
 	color: red;
-	width: 200px;
+	width: 100px;
 }
 
 
