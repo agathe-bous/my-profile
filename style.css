@@ -63,7 +63,7 @@ a:hover{
 
 
 .div0{
-	width: 500px;
+	width: 800px;
 	margin: 30px auto;
 	padding: 10px;
     box-shadow: 2px 3px 7px rgba(150, 150, 150, 0.6);
@@ -72,7 +72,7 @@ a:hover{
 }
 
 .div1{
-	width: 700px;
+	width: 1000px;
 	margin: 30px auto;
 	font-size: 15px;
 	padding: 10px;
@@ -88,7 +88,7 @@ a:hover{
 
 
 .div2{
-	width: 600px;
+	width: 100px;
 	margin: 40px auto;
 	margin-bottom: 5px;
 	padding: 10px;
@@ -98,7 +98,7 @@ a:hover{
 }
 
 .div3{
-	width: 300px;
+	width: 500px;
 	margin: 20px auto;
 	margin-bottom: 25px;
 	padding: 10px;
@@ -116,15 +116,15 @@ a:hover{
 }
 
 #Agathe{
-	width: 150px;
+	width: 350px;
 	text-align: right;
 	border: 2px red solid;
 	border-radius: 7px;
 }
 
 .logo{
-	width: 30px;
-	height: 30px;
+	width: 50px;
+	height: 50px;
 	text-align: center;
 	border-radius: 50%;
 }
