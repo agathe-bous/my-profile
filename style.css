@@ -64,8 +64,8 @@ a:hover{
 
 .div0{
 	width: 1000px;
-	margin: 30px auto;
-	padding: 10px;
+	margin: 40px auto;
+	padding: 15px;
     box-shadow: 2px 3px 7px rgba(150, 150, 150, 0.6);
     border-radius: 1%;
     background-color: rgba(185, 222, 255, 0.08);
@@ -73,7 +73,7 @@ a:hover{
 
 .div1{
 	width: 1200px;
-	margin: 30px auto;
+	margin: 40px auto;
 	font-size: 15px;
 	padding: 10px;
     box-shadow: 2px 3px 7px rgba(150, 150, 150, 0.6);
